@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Gene's Page</title>
+ <link href="http://geneqin.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://geneqin.github.io/blog"/>
+ <updated>2015-07-23T23:16:01-07:00</updated>
+ <id>http://geneqin.github.io/blog</id>
+ <author>
+   <name>geneqin</name>
+   <email>gene.qin@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello world!</title>
+   <link href="http://geneqin.github.io/blog/2015/07/23/hello.html"/>
+   <updated>2015-07-23T00:00:00-07:00</updated>
+   <id>http://geneqin.github.io/blog/2015/07/23/hello</id>
+   <content type="html">欢迎使用 WordPress 。这是系统自动生成的演示文章。编辑或者删除它，开始您的博客！
+</content>
+ </entry>
+ 
+
+</feed>
