@@ -5,4 +5,4 @@ Disallow: /works/
 Disallow: /backs/
 
 
-Sitemap: <http://cyukang.com/sitemap.xml>
+Sitemap: <http://geneqin.github.com/sitemap.xml>
